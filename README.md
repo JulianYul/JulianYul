@@ -1,7 +1,7 @@
-# 🔭⚠ En obras 
+# 🔭⚠ Próximamente
 
 
-*« De vuelta tan pronto como aprenda »*  
+*« En unos días volveré con contenido nuevo »*  
 
 
 
