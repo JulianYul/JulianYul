@@ -1,10 +1,19 @@
-# 🔭⚠ Próximamente
-
-
-*« En unos días volveré con contenido nuevo »*  
+# Bienvenidos a mi repositorio personal
 
 
 
+#### 😄 Mi nombre es **Julián Gallego** y, *soy un desarrollador web con un gusto especial por enseñar.*
+
+💬 Aquí encontrarás recursos para **aprender** y **crecer** juntos.
+
+⚡ En este perfil **encontrarás**:
+
+* **Proyectos:** Desde pequeñas aplicaciones hasta proyectos más complejos.
+* **Tutoriales:** Explicaciones sencillas y prácticas sobre diferentes tecnologías.
+* **Experimentos:** Jugando con nuevas herramientas y lenguajes.
+
+
+¡**Colabora**, **pregunta** y **comparte** tus conocimientos! 
 
 <!--
 **JulianYul/JulianYul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
